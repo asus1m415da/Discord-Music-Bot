@@ -1,0 +1,29 @@
+{
+    "dependencies": {
+        "@discordjs/voice": "^0.19.0",
+        "@distube/deezer": "^2.0.1",
+        "@distube/direct-link": "^1.0.1",
+        "@distube/soundcloud": "^2.0.3",
+        "@distube/spotify": "^2.0.2",
+        "@distube/youtube": "^1.0.4",
+        "@distube/yt-dlp": "^2.0.1",
+        "@snazzah/davey": "^0.1.6",
+        "discord.js": "^14.22.1",
+        "distube": "^5.0.7",
+        "distube-apple-music": "^0.1.0",
+        "ffmpeg": "^0.0.4",
+        "ffmpeg-static": "^5.2.0",
+        "libsodium-wrappers": "^0.7.13",
+        "opusscript": "0.0.8"
+    },
+    "optionalDependencies": {
+        "sodium-native": "^4.1.1"
+    },
+    "name": "discord-music-bot",
+    "description": "\"Discord-Music-Bot\" an Advanced Discord Music Bot for YOU",
+    "version": "2.2.1",
+    "main": "index.js",
+    "repository": "https://github.com/iTzArshia/Discord-Music-Bot",
+    "author": "iTz Arshia",
+    "license": "MIT"
+}
