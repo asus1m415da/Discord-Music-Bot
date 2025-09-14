@@ -1,7 +1,6 @@
 const { client } = require("./index");
 const { DisTube } = require("distube");
 const { YouTubePlugin } = require("@distube/youtube");
-const { SoundCloudPlugin } = require("@distube/soundcloud");
 const { SpotifyPlugin } = require("@distube/spotify");
 const { DeezerPlugin } = require("@distube/deezer");
 const { YtDlpPlugin } = require("@distube/yt-dlp");
@@ -19,7 +18,6 @@ client.distubeSettings = {
 
 const distubePlugins = [
     new YouTubePlugin(), // YouTube plugin.
-    new SoundCloudPlugin(), // SoundCloud plugin.
     new SpotifyPlugin(), // Spotify plugin.
     new DeezerPlugin(), // Deezer plugin.
     new AppleMusicPlugin(), // Apple Music plugin.
