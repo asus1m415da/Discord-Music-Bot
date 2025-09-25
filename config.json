@@ -1,0 +1,8 @@
+{
+    "Prefix": "!",
+    "MainColor": "#3498db",
+    "WarnColor": "#f39c12",
+    "ErrorColor": "#e74c3c",
+    "ClientID": "DISCORD_CLIENT_ID",
+    "Token": "DISCORD_BOT_TOKEN"
+}
